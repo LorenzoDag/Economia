@@ -17,12 +17,12 @@ Con riferimento alla dimensione tematica (oggetto del progetto) l’analisi pren
 
 La seconda classificazione tematica riguarda le tecnologie individuate dal piano Impresa 4.0:
 
-1.*Advanced manufacturing solution*: robot collaborativi interconnessi e programmabili. 
-2.*Additive manufacturing*: uso delle stampanti 3D connesse a software di sviluppo digitali. 
-3.*Augmented reality*: realtà aumentata a supporto dei processi produttivi. 
-4.*Simulation*: simulazione tra macchine interconnesse per ottimizzare i processi. 
-5.*Horizontal/Vertical integration*: integrazione dati lungo tutta la catena del valore.
-6.*Industrial Internet of Things*: comunicazione multidirezionale tra processi produttivi e prodotti. 
-7.*Cloud Computing*: gestione di elevate quantità di dati su sistemi aperti. 
-8.*Cybersecurity*: sicurezza durante le operazioni in rete e su sistemi aperti. 
-9.*Big Data & Analytics*: Analisi di base dati per ottimizzare prodotti e processi produttivi.
+1. *Advanced manufacturing solution*: robot collaborativi interconnessi e programmabili. 
+2. *Additive manufacturing*: uso delle stampanti 3D connesse a software di sviluppo digitali. 
+3. *Augmented reality*: realtà aumentata a supporto dei processi produttivi. 
+4. *Simulation*: simulazione tra macchine interconnesse per ottimizzare i processi. 
+5. *Horizontal/Vertical integration*: integrazione dati lungo tutta la catena del valore.
+6. *Industrial Internet of Things*: comunicazione multidirezionale tra processi produttivi e prodotti. 
+7. *Cloud Computing*: gestione di elevate quantità di dati su sistemi aperti. 
+8. *Cybersecurity*: sicurezza durante le operazioni in rete e su sistemi aperti. 
+9. *Big Data & Analytics*: Analisi di base dati per ottimizzare prodotti e processi produttivi.
